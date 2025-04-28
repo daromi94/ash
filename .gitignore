@@ -1,0 +1,9 @@
+# Build
+bin
+
+# Editors
+.idea
+.vscode
+
+# OS
+.DS_Store
